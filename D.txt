@@ -1,1 +1,3 @@
 Statement: two and two makes four [14:24]
+Statement: The sun rises in the east [14:27]
+
